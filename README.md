@@ -1,51 +1,7 @@
 Astra CPU Silencer v2.9.0
 README / English
+
 ============================================================
-
-# 🎉 Astra CPU Silencer メジャーアップデート記念セール
-
-**Astra CPU Silencer v2.9.0**  
-**Astra CPU Silencer Extreme Edition v2.0.0**
-
-大規模メジャーアップデートを記念して、  
-**2026年10月2日（金）～10月4日（日）23:59（日本時間）**まで、  
-3日間限定セールを開催しています。
-
-10月は開発者イタチの誕生日月のため、現在 **1,000円の誕生日月特別価格**で販売していますが、  
-今回のメジャーアップデートを記念して、そこからさらに **50%OFF**！
-
-## 🔥 期間限定価格：500円
-
-セール終了後は、誕生日月特別価格の **1,000円** に戻ります。
-
-👉 BOOTH  
-https://masatech.booth.pm/
-
----
-
-# 🎉 Astra CPU Silencer Major Update Sale
-
-To celebrate the major updates of:
-
-**Astra CPU Silencer v2.9.0**  
-**Astra CPU Silencer Extreme Edition v2.0.0**
-
-we are holding a special 3-day sale from:
-
-**October 2, 2026 (Fri) through October 4, 2026 (Sun), 23:59 JST**
-
-October is also developer Itachi's birthday month, and both products are currently available at the special **¥1,000 Birthday Month Sale price**.
-
-To celebrate the major updates, we are taking an additional **50% OFF** that ¥1,000 price!
-
-## 🔥 Limited-Time Price: ¥500
-
-After this special 3-day sale ends, the price will return to the **¥1,000 Birthday Month Sale price**.
-
-👉 BOOTH  
-https://masatech.booth.pm/
-============================================================
-
 
 ■ Introduction
 
