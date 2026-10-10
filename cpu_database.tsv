@@ -1,1 +1,269 @@
-
+# Astra CPU Silencer CPU Database
+# format_version=2
+# Columns: vendor<TAB>model<TAB>base_mhz<TAB>max_mhz<TAB>source<TAB>verified_date<TAB>enabled
+vendor	model	base_mhz	max_mhz	source	verified_date	enabled
+Intel	I7-10510U	1800	4900	https://www.intel.com/content/www/us/en/products/sku/196449/intel-core-i710510u-processor-8m-cache-up-to-4-90-ghz/specifications.html	2026-09-29	1
+Intel	I5-12400	2500	4400	https://www.intel.com/content/www/us/en/products/sku/134586/intel-core-i512400-processor-18m-cache-up-to-4-40-ghz/specifications.html	2026-09-30	1
+Intel	I5-13400	2500	4600	https://www.intel.com/content/www/us/en/products/sku/230495/intel-core-i513400-processor-20m-cache-up-to-4-60-ghz/specifications.html	2026-09-30	1
+Intel	I5-14400	2500	4700	https://www.intel.com/content/www/us/en/products/sku/236788/intel-core-i5-processor-14400-20m-cache-up-to-4-70-ghz/specifications.html	2026-09-30	1
+Intel	I7-12700K	3600	5000	https://www.intel.com/content/www/us/en/products/sku/134594/intel-core-i712700k-processor-25m-cache-up-to-5-00-ghz/specifications.html	2026-09-30	1
+Intel	I7-13700K	3400	5400	https://www.intel.com/content/www/us/en/products/sku/230500/intel-core-i713700k-processor-30m-cache-up-to-5-40-ghz/specifications.html	2026-09-30	1
+Intel	I7-14700K	3400	5600	https://www.intel.com/content/www/us/en/products/sku/236783/intel-core-i7-processor-14700k-33m-cache-up-to-5-60-ghz/specifications.html	2026-09-30	1
+Intel	I9-14900K	3200	6000	https://www.intel.com/content/www/us/en/products/sku/236773/intel-core-i9-processor-14900k-36m-cache-up-to-6-00-ghz/specifications.html	2026-09-30	1
+Intel	ULTRA 5 125H	1200	4500	https://www.intel.com/content/www/us/en/products/sku/236848/intel-core-ultra-5-processor-125h-18m-cache-up-to-4-50-ghz/specifications.html	2026-09-30	1
+Intel	ULTRA 7 155H	1400	4800	https://www.intel.com/content/www/us/en/products/sku/236847/intel-core-ultra-7-processor-155h-24m-cache-up-to-4-80-ghz/specifications.html	2026-09-30	1
+Intel	I5-12400F	2500	4400	https://www.intel.com/content/www/us/en/products/sku/134587/intel-core-i512400f-processor-18m-cache-up-to-4-40-ghz/specifications.html	2026-10-02	1
+Intel	I5-12400T	1800	4200	https://www.intel.com/content/www/us/en/products/sku/223094/intel-core-i512400t-processor-18m-cache-up-to-4-20-ghz/specifications.html	2026-10-02	1
+Intel	I5-13400F	2500	4600	https://www.intel.com/content/www/us/en/products/sku/230501/intel-core-i513400f-processor-20m-cache-up-to-4-60-ghz/specifications.html	2026-10-02	1
+Intel	I5-13400T	1300	4400	https://www.intel.com/content/www/us/en/products/sku/230577/intel-core-i513400t-processor-20m-cache-up-to-4-40-ghz/specifications.html	2026-10-02	1
+Intel	I5-14400F	2500	4700	https://www.intel.com/content/www/us/en/products/sku/236777/intel-core-i5-processor-14400f-20m-cache-up-to-4-70-ghz/specifications.html	2026-10-02	1
+Intel	I5-14400T	1500	4500	https://www.intel.com/content/www/us/en/products/sku/236790/intel-core-i5-processor-14400t-20m-cache-up-to-4-50-ghz/specifications.html	2026-10-02	1
+Intel	I7-12700KF	3600	5000	https://www.intel.com/content/www/us/en/products/sku/134595/intel-core-i712700kf-processor-25m-cache-up-to-5-00-ghz/specifications.html	2026-10-02	1
+Intel	I7-12700	2100	4900	https://www.intel.com/content/www/us/en/products/sku/134591/intel-core-i712700-processor-25m-cache-up-to-4-90-ghz/specifications.html	2026-10-02	1
+Intel	I7-12700F	2100	4900	https://www.intel.com/content/www/us/en/products/sku/134592/intel-core-i712700f-processor-25m-cache-up-to-4-90-ghz/specifications.html	2026-10-02	1
+Intel	I7-12700T	1400	4700	https://www.intel.com/content/www/us/en/products/sku/134596/intel-core-i712700t-processor-25m-cache-up-to-4-70-ghz/specifications.html	2026-10-02	1
+Intel	I7-13700KF	3400	5400	https://www.intel.com/content/www/us/en/products/sku/230489/intel-core-i713700kf-processor-30m-cache-up-to-5-40-ghz/specifications.html	2026-10-02	1
+Intel	I7-13700	2100	5200	https://www.intel.com/content/www/us/en/products/sku/230490/intel-core-i713700-processor-30m-cache-up-to-5-20-ghz/specifications.html	2026-10-02	1
+Intel	I7-13700F	2100	5200	https://www.intel.com/content/www/us/en/products/sku/230491/intel-core-i713700f-processor-30m-cache-up-to-5-20-ghz/specifications.html	2026-10-02	1
+Intel	I7-13700T	1400	4900	https://www.intel.com/content/www/us/en/products/sku/230492/intel-core-i713700t-processor-30m-cache-up-to-4-90-ghz/specifications.html	2026-10-02	1
+Intel	I7-14700KF	3400	5600	https://www.intel.com/content/www/us/en/products/sku/236789/intel-core-i7-processor-14700kf-33m-cache-up-to-5-60-ghz/specifications.html	2026-10-02	1
+Intel	I7-14700	2100	5400	https://www.intel.com/content/www/us/en/products/sku/236781/intel-core-i7-processor-14700-33m-cache-up-to-5-40-ghz/specifications.html	2026-10-02	1
+Intel	I7-14700F	2100	5400	https://www.intel.com/content/www/us/en/products/sku/236854/intel-core-i7-processor-14700f-33m-cache-up-to-5-40-ghz/specifications.html	2026-10-02	1
+Intel	I7-14700T	1300	5200	https://www.intel.com/content/www/us/en/products/sku/236794/intel-core-i7-processor-14700t-33m-cache-up-to-5-20-ghz/specifications.html	2026-10-02	1
+Intel	I9-14900KS	3200	6200	https://www.intel.com/content/www/us/en/products/sku/237504/intel-core-i9-processor-14900ks-36m-cache-up-to-6-20-ghz/specifications.html	2026-10-02	1
+Intel	I9-14900KF	3200	6000	https://www.intel.com/content/www/us/en/products/sku/236787/intel-core-i9-processor-14900kf-36m-cache-up-to-6-00-ghz/specifications.html	2026-10-02	1
+Intel	I9-14900	2000	5800	https://www.intel.com/content/www/us/en/products/sku/236793/intel-core-i9-processor-14900-36m-cache-up-to-5-80-ghz/specifications.html	2026-10-02	1
+Intel	I9-14900F	2000	5800	https://www.intel.com/content/www/us/en/products/sku/236853/intel-core-i9-processor-14900f-36m-cache-up-to-5-80-ghz/specifications.html	2026-10-02	1
+Intel	I9-14900T	1100	5500	https://www.intel.com/content/www/us/en/products/sku/236791/intel-core-i9-processor-14900t-36m-cache-up-to-5-50-ghz/specifications.html	2026-10-02	1
+Intel	ULTRA 5 135H	1700	4600	https://www.intel.com/content/www/us/en/products/sku/236850/intel-core-ultra-5-processor-135h-18m-cache-up-to-4-60-ghz/specifications.html	2026-10-02	1
+Intel	ULTRA 7 165H	1400	5000	https://www.intel.com/content/www/us/en/products/sku/236851/intel-core-ultra-7-processor-165h-24m-cache-up-to-5-00-ghz/specifications.html	2026-10-02	1
+Intel	ULTRA 9 185H	2300	5100	https://www.intel.com/content/www/us/en/products/sku/236849/intel-core-ultra-9-processor-185h-24m-cache-up-to-5-10-ghz/specifications.html	2026-10-02	1
+Intel	ULTRA 5 125U	1300	4300	https://www.intel.com/content/www/us/en/products/sku/237330/intel-core-ultra-5-processor-125u-12m-cache-up-to-4-30-ghz/specifications.html	2026-10-02	1
+Intel	ULTRA 5 135U	1600	4400	https://www.intel.com/content/www/us/en/products/sku/237328/intel-core-ultra-5-processor-135u-12m-cache-up-to-4-40-ghz/specifications.html	2026-10-02	1
+Intel	ULTRA 7 155U	1700	4800	https://www.intel.com/content/www/us/en/products/sku/237327/intel-core-ultra-7-processor-155u-12m-cache-up-to-4-80-ghz/specifications.html	2026-10-02	1
+Intel	ULTRA 7 165U	1700	4900	https://www.intel.com/content/www/us/en/products/sku/237329/intel-core-ultra-7-processor-165u-12m-cache-up-to-4-90-ghz/specifications.html	2026-10-02	1
+Intel	I5-9600KF	3700	4600	https://www.intel.com/content/www/us/en/products/sku/190884/intel-core-i59600kf-processor-9m-cache-up-to-4-60-ghz/specifications.html	2026-10-02	1
+Intel	I5-9600K	3700	4600	https://www.intel.com/content/www/us/en/products/sku/134896/intel-core-i59600k-processor-9m-cache-up-to-4-60-ghz/specifications.html	2026-10-02	1
+Intel	I5-9500	3000	4400	https://www.intel.com/content/www/us/en/products/sku/134895/intel-core-i59500-processor-9m-cache-up-to-4-40-ghz/specifications.html	2026-10-02	1
+Intel	I9-9900	3100	5000	https://www.intel.com/content/www/us/en/products/sku/191789/intel-core-i99900-processor-16m-cache-up-to-5-00-ghz/specifications.html	2026-10-02	1
+Intel	I9-9900KS	4000	5000	https://www.intel.com/content/www/us/en/products/sku/192943/intel-core-i99900ks-processor-16m-cache-up-to-5-00-ghz/specifications.html	2026-10-02	1
+Intel	I9-9900T	2100	4400	https://www.intel.com/content/www/us/en/products/sku/191044/intel-core-i99900t-processor-16m-cache-up-to-4-40-ghz/specifications.html	2026-10-02	1
+Intel	I7-9700T	2000	4300	https://www.intel.com/content/www/us/en/products/sku/191048/intel-core-i79700t-processor-12m-cache-up-to-4-30-ghz/specifications.html	2026-10-02	1
+Intel	I9-9900KF	3600	5000	https://www.intel.com/content/www/us/en/products/sku/190887/intel-core-i99900kf-processor-16m-cache-up-to-5-00-ghz/specifications.html	2026-10-02	1
+Intel	I7-9700	3000	4700	https://www.intel.com/content/www/us/en/products/sku/191792/intel-core-i79700-processor-12m-cache-up-to-4-70-ghz/specifications.html	2026-10-02	1
+Intel	I7-9700KF	3600	4900	https://www.intel.com/content/www/us/en/products/sku/190885/intel-core-i79700kf-processor-12m-cache-up-to-4-90-ghz/specifications.html	2026-10-02	1
+Intel	I3-9320	3700	4400	https://www.intel.com/content/www/us/en/products/sku/191793/intel-core-i39320-processor-8m-cache-up-to-4-40-ghz/specifications.html	2026-10-02	1
+Intel	I3-9300	3700	4300	https://www.intel.com/content/www/us/en/products/sku/134886/intel-core-i39300-processor-8m-cache-up-to-4-30-ghz/specifications.html	2026-10-02	1
+Intel	I3-9100F	3600	4200	https://www.intel.com/content/www/us/en/products/sku/190886/intel-core-i39100f-processor-6m-cache-up-to-4-20-ghz/specifications.html	2026-10-02	1
+Intel	I5-9600T	2300	3900	https://www.intel.com/content/www/us/en/products/sku/191051/intel-core-i59600t-processor-9m-cache-up-to-3-90-ghz/specifications.html	2026-10-02	1
+Intel	I5-9400T	1800	3400	https://www.intel.com/content/www/us/en/products/sku/134893/intel-core-i59400t-processor-9m-cache-up-to-3-40-ghz/specifications.html	2026-10-02	1
+Intel	I3-9350K	4000	4600	https://www.intel.com/content/www/us/en/products/sku/186606/intel-core-i39350k-processor-8m-cache-up-to-4-60-ghz/specifications.html	2026-10-02	1
+Intel	I3-9350KF	4000	4600	https://www.intel.com/content/www/us/en/products/sku/191126/intel-core-i39350kf-processor-8m-cache-up-to-4-60-ghz/specifications.html	2026-10-02	1
+Intel	I3-9100	3600	4200	https://www.intel.com/content/www/us/en/products/sku/134870/intel-core-i39100-processor-6m-cache-up-to-4-20-ghz/specifications.html	2026-10-02	1
+Intel	I3-9100T	3100	3700	https://www.intel.com/content/www/us/en/products/sku/134871/intel-core-i39100t-processor-6m-cache-up-to-3-70-ghz/specifications.html	2026-10-02	1
+Intel	I9-9980HK	2400	5000	https://www.intel.com/content/www/us/en/products/sku/192990/intel-core-i99980hk-processor-16m-cache-up-to-5-00-ghz/specifications.html	2026-10-02	1
+Intel	I5-9400F	2900	4100	https://www.intel.com/content/www/us/en/products/sku/190883/intel-core-i59400f-processor-9m-cache-up-to-4-10-ghz/specifications.html	2026-10-02	1
+Intel	I9-10900K	3700	5300	https://www.intel.com/content/www/us/en/products/sku/199332/intel-core-i910900k-processor-20m-cache-up-to-5-30-ghz/specifications.html	2026-10-02	1
+Intel	I9-10900KF	3700	5300	https://www.intel.com/content/www/us/en/products/sku/199331/intel-core-i910900kf-processor-20m-cache-up-to-5-30-ghz/specifications.html	2026-10-02	1
+Intel	I9-10900	2800	5200	https://www.intel.com/content/www/us/en/products/sku/199328/intel-core-i910900-processor-20m-cache-up-to-5-20-ghz/specifications.html	2026-10-02	1
+Intel	I9-10900F	2800	5200	https://www.intel.com/content/www/us/en/products/sku/199329/intel-core-i910900f-processor-20m-cache-up-to-5-20-ghz/specifications.html	2026-10-02	1
+Intel	I9-10900T	1900	4600	https://www.intel.com/content/www/us/en/products/sku/199324/intel-core-i910900t-processor-20m-cache-up-to-4-60-ghz/specifications.html	2026-10-02	1
+Intel	I7-10700K	3800	5100	https://www.intel.com/content/www/us/en/products/sku/199335/intel-core-i710700k-processor-16m-cache-up-to-5-10-ghz/specifications.html	2026-10-02	1
+Intel	I7-10700KF	3800	5100	https://www.intel.com/content/www/us/en/products/sku/199325/intel-core-i710700kf-processor-16m-cache-up-to-5-10-ghz/specifications.html	2026-10-02	1
+Intel	I7-10700	2900	4800	https://www.intel.com/content/www/us/en/products/sku/199316/intel-core-i710700-processor-16m-cache-up-to-4-80-ghz/specifications.html	2026-10-02	1
+Intel	I7-10700F	2900	4800	https://www.intel.com/content/www/us/en/products/sku/199318/intel-core-i710700f-processor-16m-cache-up-to-4-80-ghz/specifications.html	2026-10-02	1
+Intel	I7-10700T	2000	4500	https://www.intel.com/content/www/us/en/products/sku/199314/intel-core-i710700t-processor-16m-cache-up-to-4-50-ghz/specifications.html	2026-10-02	1
+Intel	I5-10600K	4100	4800	https://www.intel.com/content/www/us/en/products/sku/199311/intel-core-i510600k-processor-12m-cache-up-to-4-80-ghz/specifications.html	2026-10-02	1
+Intel	I5-10600KF	4100	4800	https://www.intel.com/content/www/us/en/products/sku/199315/intel-core-i510600kf-processor-12m-cache-up-to-4-80-ghz/specifications.html	2026-10-02	1
+Intel	I5-10600	3300	4800	https://www.intel.com/content/www/us/en/products/sku/199273/intel-core-i510600-processor-12m-cache-up-to-4-80-ghz/specifications.html	2026-10-02	1
+Intel	I5-10500	3100	4500	https://www.intel.com/content/www/us/en/products/sku/199277/intel-core-i510500-processor-12m-cache-up-to-4-50-ghz/specifications.html	2026-10-02	1
+Intel	I5-10400	2900	4300	https://www.intel.com/content/www/us/en/products/sku/199271/intel-core-i510400-processor-12m-cache-up-to-4-30-ghz/specifications.html	2026-10-02	1
+Intel	I5-10400F	2900	4300	https://www.intel.com/content/www/us/en/products/sku/199278/intel-core-i510400f-processor-12m-cache-up-to-4-30-ghz/specifications.html	2026-10-02	1
+Intel	I5-10400T	2000	3600	https://www.intel.com/content/www/us/en/products/sku/199276/intel-core-i510400t-processor-12m-cache-up-to-3-60-ghz/specifications.html	2026-10-02	1
+Intel	I3-10320	3800	4600	https://www.intel.com/content/www/us/en/products/sku/199280/intel-core-i310320-processor-8m-cache-up-to-4-60-ghz/specifications.html	2026-10-02	1
+Intel	I3-10300	3700	4400	https://www.intel.com/content/www/us/en/products/sku/199281/intel-core-i310300-processor-8m-cache-up-to-4-40-ghz/specifications.html	2026-10-02	1
+Intel	I3-10100	3600	4300	https://www.intel.com/content/www/us/en/products/sku/199283/intel-core-i310100-processor-6m-cache-up-to-4-30-ghz/specifications.html	2026-10-02	1
+Intel	I3-10100F	3600	4300	https://www.intel.com/content/www/us/en/products/sku/203473/intel-core-i310100f-processor-6m-cache-up-to-4-30-ghz/specifications.html	2026-10-02	1
+Intel	I3-10100T	3000	3800	https://www.intel.com/content/www/us/en/products/sku/199284/intel-core-i310100t-processor-6m-cache-up-to-3-80-ghz/specifications.html	2026-10-02	1
+Intel	I7-8700K	3700	4700	https://www.intel.com/content/www/us/en/products/sku/126684/intel-core-i78700k-processor-12m-cache-up-to-4-70-ghz/specifications.html	2026-10-02	1
+Intel	I7-8700	3200	4600	https://www.intel.com/content/www/us/en/products/sku/126686/intel-core-i78700-processor-12m-cache-up-to-4-60-ghz/specifications.html	2026-10-02	1
+Intel	I7-8700T	2400	4000	https://www.intel.com/content/www/us/en/products/sku/129948/intel-core-i78700t-processor-12m-cache-up-to-4-00-ghz/specifications.html	2026-10-02	1
+Intel	I7-8086K	4000	5000	https://www.intel.com/content/www/us/en/products/sku/148263/intel-core-i78086k-processor-12m-cache-up-to-5-00-ghz/specifications.html	2026-10-02	1
+Intel	I5-8600K	3600	4300	https://www.intel.com/content/www/us/en/products/sku/126685/intel-core-i58600k-processor-9m-cache-up-to-4-30-ghz/specifications.html	2026-10-02	1
+Intel	I5-8600	3100	4300	https://www.intel.com/content/www/us/en/products/sku/129937/intel-core-i58600-processor-9m-cache-up-to-4-30-ghz/specifications.html	2026-10-02	1
+Intel	I5-8500	3000	4100	https://www.intel.com/content/www/us/en/products/sku/129939/intel-core-i58500-processor-9m-cache-up-to-4-10-ghz/specifications.html	2026-10-02	1
+Intel	I5-8500T	2100	3500	https://www.intel.com/content/www/us/en/products/sku/129941/intel-core-i58500t-processor-9m-cache-up-to-3-50-ghz/specifications.html	2026-10-02	1
+Intel	I5-8400	2800	4000	https://www.intel.com/content/www/us/en/products/sku/126687/intel-core-i58400-processor-9m-cache-up-to-4-00-ghz/specifications.html	2026-10-02	1
+Intel	I5-8400T	1700	3300	https://www.intel.com/content/www/us/en/products/sku/129940/intel-core-i58400t-processor-9m-cache-up-to-3-30-ghz/specifications.html	2026-10-02	1
+Intel	I3-8350K	4000	4000	https://www.intel.com/content/www/us/en/products/sku/126689/intel-core-i38350k-processor-8m-cache-4-00-ghz/specifications.html	2026-10-02	1
+Intel	I3-8300	3700	3700	https://www.intel.com/content/www/us/en/products/sku/129942/intel-core-i38300-processor-8m-cache-3-70-ghz/specifications.html	2026-10-02	1
+Intel	I3-8300T	3200	3200	https://www.intel.com/content/www/us/en/products/sku/129943/intel-core-i38300t-processor-8m-cache-3-20-ghz/specifications.html	2026-10-02	1
+Intel	I3-8100	3600	3600	https://www.intel.com/content/www/us/en/products/sku/126688/intel-core-i38100-processor-6m-cache-3-60-ghz/specifications.html	2026-10-02	1
+Intel	I3-8100T	3100	3100	https://www.intel.com/content/www/us/en/products/sku/129944/intel-core-i38100t-processor-6m-cache-3-10-ghz/specifications.html	2026-10-02	1
+Intel	I9-11900K	3500	5300	https://www.intel.com/content/www/us/en/products/sku/212325/intel-core-i911900k-processor-16m-cache-up-to-5-30-ghz/specifications.html	2026-10-02	1
+Intel	I9-11900KF	3500	5300	https://www.intel.com/content/www/us/en/products/sku/212321/intel-core-i911900kf-processor-16m-cache-up-to-5-30-ghz/specifications.html	2026-10-02	1
+Intel	I9-11900	2500	5200	https://www.intel.com/content/www/us/en/products/sku/212252/intel-core-i911900-processor-16m-cache-up-to-5-20-ghz/specifications.html	2026-10-02	1
+Intel	I9-11900F	2500	5200	https://www.intel.com/content/www/us/en/products/sku/212254/intel-core-i911900f-processor-16m-cache-up-to-5-20-ghz/specifications.html	2026-10-02	1
+Intel	I9-11900T	1500	4900	https://www.intel.com/content/www/us/en/products/sku/212256/intel-core-i911900t-processor-16m-cache-up-to-4-90-ghz/specifications.html	2026-10-02	1
+Intel	I7-11700K	3600	5000	https://www.intel.com/content/www/us/en/products/sku/212047/intel-core-i711700k-processor-16m-cache-up-to-5-00-ghz/specifications.html	2026-10-02	1
+Intel	I7-11700KF	3600	5000	https://www.intel.com/content/www/us/en/products/sku/212048/intel-core-i711700kf-processor-16m-cache-up-to-5-00-ghz/specifications.html	2026-10-02	1
+Intel	I7-11700	2500	4900	https://www.intel.com/content/www/us/en/products/sku/212279/intel-core-i711700-processor-16m-cache-up-to-4-90-ghz/specifications.html	2026-10-02	1
+Intel	I7-11700F	2500	4900	https://www.intel.com/content/www/us/en/products/sku/212280/intel-core-i711700f-processor-16m-cache-up-to-4-90-ghz/specifications.html	2026-10-02	1
+Intel	I7-11700T	1400	4600	https://www.intel.com/content/www/us/en/products/sku/212251/intel-core-i711700t-processor-16m-cache-up-to-4-60-ghz/specifications.html	2026-10-02	1
+Intel	I5-11600K	3900	4900	https://www.intel.com/content/www/us/en/products/sku/212275/intel-core-i511600k-processor-12m-cache-up-to-4-90-ghz/specifications.html	2026-10-02	1
+Intel	I5-11600KF	3900	4900	https://www.intel.com/content/www/us/en/products/sku/212276/intel-core-i511600kf-processor-12m-cache-up-to-4-90-ghz/specifications.html	2026-10-02	1
+Intel	I5-11600	2800	4800	https://www.intel.com/content/www/us/en/products/sku/212274/intel-core-i511600-processor-12m-cache-up-to-4-80-ghz/specifications.html	2026-10-02	1
+Intel	I5-11500	2700	4600	https://www.intel.com/content/www/us/en/products/sku/212277/intel-core-i511500-processor-12m-cache-up-to-4-60-ghz/specifications.html	2026-10-02	1
+Intel	I5-11400	2600	4400	https://www.intel.com/content/www/us/en/products/sku/212270/intel-core-i511400-processor-12m-cache-up-to-4-40-ghz/specifications.html	2026-10-02	1
+Intel	I5-11400F	2600	4400	https://www.intel.com/content/www/us/en/products/sku/212271/intel-core-i511400f-processor-12m-cache-up-to-4-40-ghz/specifications.html	2026-10-02	1
+Intel	I5-11400T	1300	3700	https://www.intel.com/content/www/us/en/products/sku/212273/intel-core-i511400t-processor-12m-cache-up-to-3-70-ghz/specifications.html	2026-10-02	1
+Intel	I9-8950HK	2900	4800	https://www.intel.com/content/www/us/en/products/platforms/details/coffee-lake-h.html	2026-10-02	1
+Intel	I7-8850H	2600	4300	https://www.intel.com/content/www/us/en/products/platforms/details/coffee-lake-h.html	2026-10-02	1
+Intel	I7-8750H	2200	4100	https://www.intel.com/content/www/us/en/products/platforms/details/coffee-lake-h.html	2026-10-02	1
+Intel	I5-8400H	2500	4200	https://www.intel.com/content/www/us/en/products/platforms/details/coffee-lake-h.html	2026-10-02	1
+Intel	I5-8300H	2300	4000	https://www.intel.com/content/www/us/en/products/platforms/details/coffee-lake-h.html	2026-10-02	1
+Intel	I7-8665U	1900	4800	https://www.intel.com/content/www/us/en/ark/products/codename/135883/products-formerly-whiskey-lake.html	2026-10-02	1
+Intel	I7-8565U	1800	4600	https://www.intel.com/content/www/us/en/products/sku/149091/intel-core-i78565u-processor-8m-cache-up-to-4-60-ghz/specifications.html	2026-10-02	1
+Intel	I7-8650U	1900	4200	https://www.intel.com/content/www/us/en/products/compare.html?countrylabel=&productIds=124968%2C122589%2C124969%2C124967	2026-10-02	1
+Intel	I7-8550U	1800	4000	https://www.intel.com/content/www/us/en/products/compare.html?countrylabel=&productIds=124968%2C122589%2C124969%2C124967	2026-10-02	1
+Intel	I5-8365U	1600	4100	https://www.intel.com/content/www/us/en/ark/products/codename/135883/products-formerly-whiskey-lake.html	2026-10-02	1
+Intel	I5-8265U	1600	3900	https://www.intel.com/content/www/us/en/products/compare.html?countrylabel=&productIds=%2F122589%2C124968%2C149091%2C124967%2C149088%2C137977%2C149090	2026-10-02	1
+Intel	I5-8350U	1700	3600	https://www.intel.com/content/www/us/en/products/compare.html?countrylabel=&productIds=124968%2C122589%2C124969%2C124967	2026-10-02	1
+Intel	I5-8250U	1600	3400	https://www.intel.com/content/www/us/en/products/compare.html?countrylabel=&productIds=124968%2C122589%2C124969%2C124967	2026-10-02	1
+Intel	I3-8145U	2100	3900	https://www.intel.com/content/www/us/en/products/sku/149090/intel-core-i38145u-processor-4m-cache-up-to-3-90-ghz/specifications.html	2026-10-02	1
+Intel	I3-8130U	2200	3400	https://www.intel.com/content/www/us/en/products/compare.html?countrylabel=&productIds=%2F122589%2C124968%2C149091%2C124967%2C149088%2C137977%2C149090	2026-10-02	1
+Intel	I9-9880H	2300	4800	https://www.intel.com/content/www/us/en/products/sku/192987/intel-core-i99880h-processor-16m-cache-up-to-4-80-ghz/specifications.html	2026-10-02	1
+Intel	I7-9850H	2600	4600	https://www.intel.com/content/www/us/en/products/sku/191047/intel-core-i79850h-processor-12m-cache-up-to-4-60-ghz/specifications.html	2026-10-02	1
+Intel	I7-9750H	2600	4500	https://www.intel.com/content/www/us/en/products/sku/191045/intel-core-i79750h-processor-12m-cache-up-to-4-50-ghz/specifications.html	2026-10-02	1
+Intel	I5-9400H	2500	4300	https://www.intel.com/content/www/us/en/products/sku/191078/intel-core-i59400h-processor-8m-cache-up-to-4-30-ghz/specifications.html	2026-10-02	1
+Intel	I5-9300H	2400	4100	https://www.intel.com/content/www/us/en/products/sku/191075/intel-core-i59300h-processor-8m-cache-up-to-4-10-ghz/specifications.html	2026-10-02	1
+Intel	I9-10980HK	2400	5300	https://www.intel.com/content/www/us/en/ark/products/codename/90354/products-formerly-comet-lake.html	2026-10-02	1
+Intel	I7-10875H	2300	5100	https://www.intel.com/content/www/us/en/ark/products/codename/90354/products-formerly-comet-lake.html	2026-10-02	1
+Intel	I7-10850H	2700	5100	https://www.intel.com/content/www/us/en/ark/products/codename/90354/products-formerly-comet-lake.html	2026-10-02	1
+Intel	I7-10750H	2600	5000	https://www.intel.com/content/www/us/en/ark/products/codename/90354/products-formerly-comet-lake.html	2026-10-02	1
+Intel	I5-10400H	2600	4600	https://www.intel.com/content/www/us/en/products/compare.html?productIds=201895%2C201839%2C202329%2C201897%2C201837%2C201838	2026-10-02	1
+Intel	I5-10300H	2500	4500	https://www.intel.com/content/www/us/en/products/compare.html?productIds=201895%2C201839%2C202329%2C201897%2C201837%2C201838	2026-10-02	1
+Intel	I7-10810U	1100	4900	https://www.intel.com/content/www/us/en/ark/products/codename/90354/products-formerly-comet-lake.html	2026-10-02	1
+Intel	I7-10710U	1100	4700	https://www.intel.com/content/www/us/en/products/compare.html?productIds=196451%2C197890%2C197888%2C195436%2C196448%2C196449	2026-10-02	1
+Intel	I5-10210U	1600	4200	https://www.intel.com/content/www/us/en/products/compare.html?productIds=196451%2C197890%2C197888%2C195436%2C196448%2C196449	2026-10-02	1
+Intel	I3-10110U	2100	4100	https://www.intel.com/content/www/us/en/products/compare.html?productIds=196451%2C197890%2C197888%2C195436%2C196448%2C196449	2026-10-02	1
+Intel	I9-12900KS	3400	5500	https://www.intel.com/content/www/us/en/products/sku/225916/intel-core-i912900ks-processor-30m-cache-up-to-5-50-ghz/specifications.html	2026-10-02	1
+Intel	I9-12900K	3200	5200	https://www.intel.com/content/www/us/en/products/sku/134599/intel-core-i912900k-processor-30m-cache-up-to-5-20-ghz/specifications.html	2026-10-02	1
+Intel	I9-12900KF	3200	5200	https://www.intel.com/content/www/us/en/products/sku/134600/intel-core-i912900kf-processor-30m-cache-up-to-5-20-ghz/specifications.html	2026-10-02	1
+Intel	I9-12900	2400	5100	https://www.intel.com/content/www/us/en/products/compare.html?productIds=134599%2C134597	2026-10-02	1
+Intel	I9-12900F	2400	5100	https://www.intel.com/content/www/us/en/products/sku/134598/intel-core-i912900f-processor-30m-cache-up-to-5-10-ghz/specifications.html	2026-10-02	1
+Intel	I9-12900T	1400	4900	https://www.intel.com/content/www/us/en/products/sku/134601/intel-core-i912900t-processor-30m-cache-up-to-4-90-ghz/specifications.html	2026-10-02	1
+Intel	I5-12600K	3700	4900	https://www.intel.com/content/www/us/en/products/compare.html?productIds=134589%2C134590	2026-10-02	1
+Intel	I5-12600KF	3700	4900	https://www.intel.com/content/www/us/en/products/compare.html?productIds=134589%2C134590	2026-10-02	1
+Intel	I5-12600	3300	4800	https://www.intel.com/content/www/us/en/products/sku/96149/intel-core-i512600-processor-18m-cache-up-to-4-80-ghz/specifications.html	2026-10-02	1
+Intel	I5-12500	3000	4600	https://www.intel.com/content/www/us/en/products/sku/96144/intel-core-i512500-processor-18m-cache-up-to-4-60-ghz/specifications.html	2026-10-02	1
+Intel	I3-12300	3500	4400	https://www.intel.com/content/www/us/en/products/sku/223095/intel-core-i312300-processor-12m-cache-up-to-4-40-ghz/specifications.html	2026-10-02	1
+Intel	I3-12100	3300	4300	https://www.intel.com/content/www/us/en/products/sku/134584/intel-core-i312100-processor-12m-cache-up-to-4-30-ghz/specifications.html	2026-10-02	1
+Intel	I3-12100F	3300	4300	https://www.intel.com/content/www/us/en/products/sku/132223/intel-core-i312100f-processor-12m-cache-up-to-4-30-ghz/specifications.html	2026-10-02	1
+Intel	I3-12100T	2200	4100	https://www.intel.com/content/www/us/en/products/sku/223097/intel-core-i312100t-processor-12m-cache-up-to-4-10-ghz/specifications.html	2026-10-02	1
+Intel	I9-13900KS	3200	6000	https://www.intel.com/content/www/us/en/products/sku/232167/intel-core-i913900ks-processor-36m-cache-up-to-6-00-ghz/specifications.html	2026-10-02	1
+Intel	I9-13900K	3000	5800	https://www.intel.com/content/www/us/en/products/sku/230496/intel-core-i913900k-processor-36m-cache-up-to-5-80-ghz/specifications.html	2026-10-02	1
+Intel	I9-13900KF	3000	5800	https://www.intel.com/content/www/us/en/products/sku/230497/intel-core-i913900kf-processor-36m-cache-up-to-5-80-ghz/specifications.html	2026-10-02	1
+Intel	I9-13900	2000	5600	https://www.intel.com/content/www/us/en/products/sku/230499/intel-core-i913900-processor-36m-cache-up-to-5-60-ghz/specifications.html	2026-10-02	1
+Intel	I9-13900F	2000	5600	https://www.intel.com/content/www/us/en/products/sku/230502/intel-core-i913900f-processor-36m-cache-up-to-5-60-ghz/specifications.html	2026-10-02	1
+Intel	I9-13900T	1100	5300	https://www.intel.com/content/www/us/en/products/sku/230498/intel-core-i913900t-processor-36m-cache-up-to-5-30-ghz/specifications.html	2026-10-02	1
+Intel	I5-13600K	3500	5100	https://www.intel.com/content/www/us/en/products/sku/230493/intel-core-i513600k-processor-24m-cache-up-to-5-10-ghz/specifications.html	2026-10-02	1
+Intel	I5-13600KF	3500	5100	https://www.intel.com/content/www/us/en/products/sku/230494/intel-core-i513600kf-processor-24m-cache-up-to-5-10-ghz/specifications.html	2026-10-02	1
+Intel	I5-13600	2700	5000	https://www.intel.com/content/www/us/en/products/sku/230574/intel-core-i513600-processor-24m-cache-up-to-5-00-ghz/specifications.html	2026-10-02	1
+Intel	I5-13500	2500	4800	https://www.intel.com/content/www/us/en/products/sku/230580/intel-core-i513500-processor-24m-cache-up-to-4-80-ghz/specifications.html	2026-10-02	1
+Intel	I3-13100	3400	4500	https://www.intel.com/content/www/us/en/products/sku/230575/intel-core-i313100-processor-12m-cache-up-to-4-50-ghz/specifications.html	2026-10-02	1
+Intel	I3-13100F	3400	4500	https://www.intel.com/content/www/us/en/products/sku/230576/intel-core-i313100f-processor-12m-cache-up-to-4-50-ghz/specifications.html	2026-10-02	1
+Intel	I3-13100T	2500	4200	https://www.intel.com/content/www/us/en/products/sku/230579/intel-core-i313100t-processor-12m-cache-up-to-4-20-ghz/specifications.html	2026-10-02	1
+Intel	I5-14600K	3500	5300	https://www.intel.com/content/www/us/en/products/sku/236799/intel-core-i5-processor-14600k-24m-cache-up-to-5-30-ghz/specifications.html	2026-10-02	1
+Intel	I5-14600KF	3500	5300	https://www.intel.com/content/www/us/en/products/sku/236778/intel-core-i5-processor-14600kf-24m-cache-up-to-5-30-ghz/specifications.html	2026-10-02	1
+Intel	I5-14600	2700	5200	https://www.intel.com/content/www/us/en/products/sku/236845/intel-core-i5-processor-14600-24m-cache-up-to-5-20-ghz/specifications.html	2026-10-02	1
+Intel	I3-14100	3500	4700	https://www.intel.com/content/www/us/en/products/sku/236774/intel-core-i3-processor-14100-12m-cache-up-to-4-70-ghz/specifications.html	2026-10-02	1
+Intel	I3-14100F	3500	4700	https://www.intel.com/content/www/us/en/products/sku/236786/intel-core-i3-processor-14100f-12m-cache-up-to-4-70-ghz/specifications.html	2026-10-02	1
+Intel	ULTRA 9 285K	3700	5700	https://www.intel.com/content/www/us/en/products/sku/241060/intel-core-ultra-9-processor-285k-36m-cache-up-to-5-70-ghz/specifications.html	2026-10-02	1
+Intel	ULTRA 7 265K	3900	5500	https://www.intel.com/content/www/us/en/products/docs/processors/core-ultra/core-ultra-desktop-processors-series-2-brief.html	2026-10-02	1
+Intel	ULTRA 7 265KF	3900	5500	https://www.intel.com/content/www/us/en/products/sku/241062/intel-core-ultra-7-processor-265kf-30m-cache-up-to-5-50-ghz/specifications.html	2026-10-02	1
+Intel	ULTRA 7 265	2400	5300	https://www.intel.com/content/www/us/en/products/sku/241068/intel-core-ultra-7-processor-265-30m-cache-up-to-5-30-ghz/specifications.html	2026-10-02	1
+Intel	ULTRA 5 245K	4200	5200	https://www.intel.com/content/www/us/en/products/docs/processors/core-ultra/core-ultra-desktop-processors-series-2-brief.html	2026-10-02	1
+Intel	ULTRA 5 245KF	4200	5200	https://www.intel.com/content/www/us/en/products/docs/processors/core-ultra/core-ultra-desktop-processors-series-2-brief.html	2026-10-02	1
+Intel	ULTRA 5 245	3500	5100	https://cdrdv2-public.intel.com/843359/edge-intel-core-ultra-processor-series-2-s-sku-product-brief.pdf	2026-10-02	1
+Intel	I3-14100T	2700	4400	https://www.intel.com/content/www/us/en/products/sku/236775/intel-core-i3-processor-14100t-12m-cache-up-to-4-40-ghz/specifications.html	2026-10-02	1
+Intel	I9-14900HX	2200	5800	https://www.intel.com/content/www/us/en/products/sku/235995/intel-core-i9-processor-14900hx-36m-cache-up-to-5-80-ghz/specifications.html	2026-10-02	1
+Intel	I7-14700HX	2100	5500	https://www.intel.com/content/www/us/en/products/sku/235997/intel-core-i7-processor-14700hx-33m-cache-up-to-5-50-ghz/specifications.html	2026-10-02	1
+Intel	I7-14650HX	2200	5200	https://www.intel.com/content/www/us/en/products/sku/235996/intel-core-i7-processor-14650hx-30m-cache-up-to-5-20-ghz/specifications.html	2026-10-02	1
+Intel	I5-14500HX	2600	4900	https://www.intel.com/content/www/us/en/products/sku/235999/intel-core-i5-processor-14500hx-24m-cache-up-to-4-90-ghz/specifications.html	2026-10-02	1
+Intel	I5-14450HX	2400	4800	https://www.intel.com/content/www/us/en/products/sku/235998/intel-core-i5-processor-14450hx-20m-cache-up-to-4-80-ghz/specifications.html	2026-10-02	1
+Intel	ULTRA 9 288V	3300	5100	https://www.intel.com/content/www/us/en/products/sku/240961/intel-core-ultra-9-processor-288v-12m-cache-up-to-5-10-ghz/specifications.html	2026-10-02	1
+Intel	ULTRA 7 268V	2200	5000	https://www.intel.com/content/www/us/en/products/sku/240958/intel-core-ultra-7-processor-268v-12m-cache-up-to-5-00-ghz/specifications.html	2026-10-02	1
+Intel	ULTRA 7 266V	2200	5000	https://www.intel.com/content/www/us/en/products/sku/240956/intel-core-ultra-7-processor-266v-12m-cache-up-to-5-00-ghz/specifications.html	2026-10-02	1
+Intel	ULTRA 7 258V	2200	4800	https://www.intel.com/content/www/us/en/products/sku/240957/intel-core-ultra-7-processor-258v-12m-cache-up-to-4-80-ghz/specifications.html	2026-10-02	1
+Intel	ULTRA 5 238V	2100	4700	https://www.intel.com/content/www/us/en/products/sku/240951/intel-core-ultra-5-processor-238v-8m-cache-up-to-4-70-ghz/specifications.html	2026-10-02	1
+Intel	ULTRA 5 228V	2100	4500	https://www.intel.com/content/www/us/en/products/sku/240955/intel-core-ultra-5-processor-228v-8m-cache-up-to-4-50-ghz/specifications.html	2026-10-02	1
+Intel	ULTRA 7 256V	2200	4800	https://www.intel.com/content/www/us/en/products/sku/240954/intel-core-ultra-7-processor-256v-12m-cache-up-to-4-80-ghz/specifications.html	2026-10-02	1
+Intel	ULTRA 5 236V	2100	4700	https://www.intel.com/content/www/us/en/products/sku/240959/intel-core-ultra-5-processor-236v-8m-cache-up-to-4-70-ghz/specifications.html	2026-10-02	1
+Intel	ULTRA 5 226V	2100	4500	https://www.intel.com/content/www/us/en/products/sku/240960/intel-core-ultra-5-processor-226v-8m-cache-up-to-4-50-ghz/specifications.html	2026-10-02	1
+Intel	ULTRA 9 285HX	2800	5500	https://www.intel.com/content/www/us/en/products/sku/242297/intel-core-ultra-9-processor-285hx-36m-cache-up-to-5-50-ghz/specifications.html	2026-10-02	1
+Intel	ULTRA 9 275HX	2700	5400	https://download.intel.com/newsroom/2025/client-computing/Intel-CES2025-Performance-Preview-Keynote.pdf	2026-10-02	1
+Intel	ULTRA 7 265HX	2600	5300	https://www.intel.com/content/www/us/en/products/sku/242294/intel-core-ultra-7-processor-265hx-30m-cache-up-to-5-30-ghz/specifications.html	2026-10-02	1
+Intel	ULTRA 5 245HX	3100	5100	https://www.intel.com/content/www/us/en/products/sku/242295/intel-core-ultra-5-processor-245hx-24m-cache-up-to-5-10-ghz/specifications.html	2026-10-02	1
+Intel	ULTRA 9 285H	2900	5400	https://www.intel.com/content/www/us/en/products/sku/241747/intel-core-ultra-9-processor-285h-24m-cache-up-to-5-40-ghz/specifications.html	2026-10-02	1
+Intel	ULTRA 7 265H	2200	5300	https://www.intel.com/content/www/us/en/products/sku/241750/intel-core-ultra-7-processor-265h-24m-cache-up-to-5-30-ghz/specifications.html	2026-10-02	1
+Intel	ULTRA 7 255H	2000	5100	https://www.intel.com/content/www/us/en/products/sku/241751/intel-core-ultra-7-processor-255h-24m-cache-up-to-5-10-ghz/specifications.html	2026-10-02	1
+Intel	ULTRA 5 235H	2400	5000	https://www.intel.com/content/www/us/en/products/sku/241748/intel-core-ultra-5-processor-235h-18m-cache-up-to-5-00-ghz/specifications.html	2026-10-02	1
+Intel	ULTRA 5 225H	1700	4900	https://www.intel.com/content/www/us/en/products/sku/241749/intel-core-ultra-5-processor-225h-18m-cache-up-to-4-90-ghz/specifications.html	2026-10-02	1
+Intel	I9-9900K	3600	5000	https://www.intel.com/content/www/us/en/products/sku/186605/intel-core-i99900k-processor-16m-cache-up-to-5-00-ghz/specifications.html	2026-10-02	1
+Intel	I7-9700K	3600	4900	https://www.intel.com/content/www/us/en/products/sku/186604/intel-core-i79700k-processor-12m-cache-up-to-4-90-ghz/specifications.html	2026-10-02	1
+Intel	I7-9700F	3000	4700	https://www.intel.com/content/www/us/en/products/sku/193738/intel-core-i79700f-processor-12m-cache-up-to-4-70-ghz/specifications.html	2026-10-02	1
+Intel	I5-9500F	3000	4400	https://www.intel.com/content/www/us/en/products/sku/190890/intel-core-i59500f-processor-9m-cache-up-to-4-40-ghz/specifications.html	2026-10-02	1
+Intel	I5-9400	2900	4100	https://www.intel.com/content/www/us/en/products/sku/134898/intel-core-i59400-processor-9m-cache-up-to-4-10-ghz/specifications.html	2026-10-02	1
+Intel	I7-9750HF	2600	4500	https://www.intel.com/content/www/us/en/products/sku/191046/intel-core-i79750hf-processor-12m-cache-up-to-4-50-ghz/specifications.html	2026-10-02	1
+Intel	I7-8705G	3100	4100	https://www.intel.com/content/www/us/en/products/sku/130411/intel-core-i78705g-processor-with-radeon-rx-vega-m-gl-graphics-8m-cache-up-to-4-10-ghz/specifications.html	2026-10-02	1
+Intel	I7-8706G	3100	4100	https://www.intel.com/content/www/us/en/products/compare.html?countrylabel=&productIds=%2F130409%2C130407%2C130406%2C130411	2026-10-02	1
+Intel	I7-8500Y	1500	4200	https://www.intel.com/content/www/us/en/products/sku/185281/intel-core-i78500y-processor-4m-cache-up-to-4-20-ghz/specifications.html	2026-10-02	1
+Intel	I5-8200Y	1300	3900	https://www.intel.com/content/www/us/en/products/sku/185280/intel-core-i58200y-processor-4m-cache-up-to-3-90-ghz/specifications.html	2026-10-02	1
+Intel	M3-8100Y	1100	3400	https://www.intel.com/content/www/us/en/products/sku/185282/intel-core-m38100y-processor-4m-cache-up-to-3-40-ghz/specifications.html	2026-10-02	1
+Intel	I5-14500	2600	5000	https://cdrdv2-public.intel.com/813081/Media-Deck-Intel-Core-Processors-HXU-Mobile-65-35W-Desktop.pdf	2026-10-02	1
+AMD	4500	3600	4100	https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-4000-series/amd-ryzen-5-4500.html	2026-10-02	1
+AMD	5950X	3400	4900	https://www.amd.com/en/products/processors/desktops/ryzen/5000-series/amd-ryzen-9-5950x.html	2026-10-02	1
+AMD	5900X	3700	4800	https://www.amd.com/en/products/processors/desktops/ryzen/5000-series/amd-ryzen-9-5900x.html	2026-10-02	1
+AMD	5800X3D	3400	4500	https://www.amd.com/en/products/processors/desktops/ryzen/5000-series/amd-ryzen-7-5800x3d.html	2026-10-02	1
+AMD	5800X	3800	4700	https://www.amd.com/en/products/processors/desktops/ryzen/5000-series/amd-ryzen-7-5800x.html	2026-10-02	1
+AMD	5700X3D	3000	4100	https://www.amd.com/en/newsroom/press-releases/2024-1-8-amd-reveals-next-gen-desktop-processors-for-extrem.html	2026-10-02	1
+AMD	5700X	3400	4600	https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-5000-series/amd-ryzen-7-5700x.html	2026-10-02	1
+AMD	5700G	3800	4600	https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-5000-series/amd-ryzen-7-5700g.html	2026-10-02	1
+AMD	5600X	3700	4600	https://www.amd.com/en/products/processors/desktops/ryzen/5000-series/amd-ryzen-5-5600x.html	2026-10-02	1
+AMD	5600G	3900	4400	https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-5000-series/amd-ryzen-5-5600g.html	2026-10-02	1
+AMD	5600	3500	4400	https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-5000-series/amd-ryzen-5-5600.html	2026-10-02	1
+AMD	5500	3600	4200	https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-5000-series/amd-ryzen-5-5500.html	2026-10-02	1
+AMD	7950X	4500	5700	https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-9-7950x.html	2026-10-02	1
+AMD	7950X3D	4200	5700	https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-9-7950x3d.html	2026-10-02	1
+AMD	7900X	4700	5600	https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-9-7900x.html	2026-10-02	1
+AMD	7900X3D	4400	5600	https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-9-7900x3d.html	2026-10-02	1
+AMD	7800X3D	4200	5000	https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7800x3d.html	2026-10-02	1
+AMD	7700X	4500	5400	https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7700x.html	2026-10-02	1
+AMD	7700	3800	5300	https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-7-7700.html	2026-10-02	1
+AMD	7600X	4700	5300	https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-5-7600x.html	2026-10-02	1
+AMD	7600	3800	5100	https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-5-7600.html	2026-10-02	1
+AMD	7500F	3700	5000	https://www.amd.com/en/products/processors/desktops/ryzen/7000-series/amd-ryzen-5-7500f.html	2026-10-02	1
+AMD	8700G	4200	5100	https://www.amd.com/en/products/processors/desktops/ryzen/8000-series/amd-ryzen-7-8700g.html	2026-10-02	1
+AMD	8600G	4300	5000	https://www.amd.com/en/products/processors/desktops/ryzen/8000-series/amd-ryzen-5-8600g.html	2026-10-02	1
+AMD	8500G	3500	5000	https://www.amd.com/en/products/processors/desktops/ryzen/8000-series/amd-ryzen-5-8500g.html	2026-10-02	1
+AMD	9950X	4300	5700	https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9950x.html	2026-10-02	1
+AMD	9950X3D	4300	5700	https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9950x3d.html	2026-10-02	1
+AMD	9950X3D2	4300	5600	https://www.amd.com/ja/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9950x3d2-dual-edition.html	2026-10-02	1
+AMD	9900X	4400	5600	https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9900x.html	2026-10-02	1
+AMD	9900X3D	4400	5500	https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9900x3d.html	2026-10-02	1
+AMD	9850X3D	4700	5600	https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9850x3d.html	2026-10-02	1
+AMD	9800X3D	4700	5200	https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9800x3d.html	2026-10-02	1
+AMD	9700X	3800	5500	https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-7-9700x.html	2026-10-02	1
+AMD	9600X	3900	5400	https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-5-9600x.html	2026-10-02	1
+AMD	9600	3800	5200	https://www.amd.com/en/products/processors/desktops/ryzen/9000-series/amd-ryzen-5-9600.html	2026-10-02	1
+AMD	7945HX3D	2300	5400	https://www.amd.com/en/support/downloads/drivers.html/processors/ryzen/ryzen-7000-series/amd-ryzen-9-7945hx3d.html	2026-10-02	1
+AMD	7945HX	2500	5400	https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-9-7945hx.html	2026-10-02	1
+AMD	7745HX	3600	5100	https://www.amd.com/ja/products/processors/laptop/ryzen/7000-series/amd-ryzen-7-7745hx.html	2026-10-02	1
+AMD	7645HX	4000	5000	https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-5-7645hx.html	2026-10-02	1
+AMD	7940HS	4000	5200	https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-9-7940hs.html	2026-10-02	1
+AMD	7840HS	3800	5100	https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-7-7840hs.html	2026-10-02	1
+AMD	7840U	3300	5100	https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-7-7840u.html	2026-10-02	1
+AMD	7640HS	4300	5000	https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-5-7640hs.html	2026-10-02	1
+AMD	7640U	3500	4900	https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-5-7640u.html	2026-10-02	1
+AMD	7320U	2400	4100	https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-3-7320u.html	2026-10-02	1
