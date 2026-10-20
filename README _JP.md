@@ -183,6 +183,6 @@ CPU、Windows、電源プラン、負荷、温度、BIOS、メーカー独自制
 
 
 ============================================================
-Astra CPU Silencer v2.9.5
+Astra CPU Silencer v2.9.6
 Support: masatech.dev.apps@gmail.com
 ============================================================
