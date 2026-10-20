@@ -1,4 +1,4 @@
-Astra CPU Silencer v2.9.5
+Astra CPU Silencer v2.9.6
 README / 配布用説明書
 ============================================================
 
