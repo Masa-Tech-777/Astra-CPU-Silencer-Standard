@@ -2,6 +2,32 @@ Astra CPU Silencer Standard v2.9.6
 README / English
 ============================================================
 
+■ About Astra CPU Silencer Standard
+
+Manage CPU frequency limits and turbo/boost behavior with straightforward settings.
+
+Astra CPU Silencer Standard is a CPU power-management utility for Windows 11,
+supporting Intel CPUs and AMD Ryzen CPUs.
+
+It detects the CPU model and, when the model exactly matches an entry in its
+embedded CPU specification database, refers to the registered base and maximum
+frequencies. You can configure maximum CPU frequency, minimum processor
+performance, and boost behavior separately for AC and DC power.
+
+On boost-capable CPUs, you can choose to disable boost or set a maximum
+frequency that includes the range above the CPU's base frequency. You can also
+select how aggressively Windows requests boost performance or favors efficiency.
+
+Silencer applies settings to Windows power management. Afterward, Windows and
+the CPU automatically manage frequency changes and boosting in response to
+operating conditions. Silencer does not directly modify CPU voltage or BIOS
+settings.
+
+It is intended for users who want accessible controls for tuning CPU frequency
+limits and boost behavior when balancing performance and heat. Results depend
+on the CPU and system configuration.
+
+
 ■ Introduction
 
 Astra CPU Silencer Standard is a Windows utility that adjusts CPU power-management
@@ -98,14 +124,42 @@ If 2500 MHz is entered, Astra CPU Silencer Standard automatically redirects it t
 
 ■ Boost Mode
 
-Processor Performance Boost Mode uses the Windows values 0 through 6.
+Standard supports Windows Processor Performance Boost Mode settings 0 through 6.
+These select the policy for turbo/boost behavior. The default is 1 (Enabled).
 
-The default value is:
+0: Disabled
+   Disables boosting above the processor's nominal performance level.
 
-1 (Enabled)
+1: Enabled
+   Allows boost under normal Windows and CPU power-management behavior.
 
-The exact effect of each boost mode may vary depending on the CPU and
-Windows implementation.
+2: Aggressive
+   On supported control interfaces, Windows requests higher boost performance
+   more aggressively.
+
+3: Efficient Enabled
+   Allows boosting while taking efficiency into account.
+
+4: Efficient Aggressive
+   Combines efficiency-aware behavior with more aggressive boost requests.
+
+5: Aggressive At Guaranteed
+   An aggressive boost-request policy referenced to the CPU's guaranteed
+   performance level.
+
+6: Efficient Aggressive At Guaranteed
+   An efficiency-aware boost-request policy referenced to the CPU's guaranteed
+   performance level.
+
+Notes:
+・These modes do not lock the CPU to a fixed clock frequency.
+・Their effects vary by CPU, firmware and Windows performance-control interface
+  (such as P-state or CPPC). Some modes may behave identically on a given PC.
+・A more aggressive setting does not guarantee a higher clock in every workload,
+  and an efficient setting does not guarantee lower temperatures.
+・On boost-capable CPUs, a configured maximum frequency may permit boosting
+  within that limit, including above the base frequency.
+・Entered MHz values are not a promise of exact operating frequencies.
 
 
 ■ Restore Original and Full Reset
