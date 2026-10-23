@@ -1,7 +1,25 @@
 Astra CPU Silencer Standard v2.9.6
 README / 配布用説明書
 ============================================================
+## 🌙 MasaTech Weekend Night Sale / 週末ナイトタイムセール
 
+🎉 **October 23–25, 2026 | 2026年10月23日（金）～25日（日）**
+
+**Every night 20:00–05:59 JST (UTC+9)**  
+**毎晩20:00～翌朝5:59（日本時間）**
+
+- ⚡ Astra CPU Silencer Standard Edition：**¥150**
+- ⚡ Astra CPU Silencer Extreme Edition：**¥300**
+
+Intel・AMD対応。CPU周波数の設定に加えて、ターボブーストの動作モードも調整できます。
+
+Supports Intel and AMD processors, with configurable CPU frequency limits and Turbo Boost modes.
+
+🛒 **BOOTH:** https://masatech.booth.pm/
+
+*3夜限定の特別価格です。 / Special prices available during the three scheduled sale periods.*
+
+==========================================================
 ■ Astra CPU Silencer Standard について
 
 CPU の動作周波数とターボブーストを、シンプルな操作で管理。
