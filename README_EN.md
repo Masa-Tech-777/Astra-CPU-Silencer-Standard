@@ -1,5 +1,4 @@
-Astra CPU Silencer Standard v2.9.6
-README / English
+Astra CPU Silencer Standard v2.9.6 / English
 ============================================================
 
 ■ About Astra CPU Silencer Standard
